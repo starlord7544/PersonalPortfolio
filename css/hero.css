@@ -1,0 +1,17 @@
+#hero {
+    background-image: url("../img/2.jpg");
+    background-size:cover;
+    background-position: top center;
+    position: relative;
+}
+#hero .hero{
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 0 50px;
+}
+#hero h1{
+    font-size: 4rem;
+    font-weight: bold;
+    position: relative;
+    color: white;
+}
